@@ -19,8 +19,8 @@ npm run test
 | Day | Name                                | Rules                                            | Tests                              | Code                         | Status |
 | --- | ----------------------------------- | ------------------------------------------------ | ---------------------------------- | ---------------------------- | ------ |
 | 1   | Automating Christmas gift wrapping! | [rules](https://adventjs.dev/challenges/2022/1)  | [tests](./src/day01/index.test.ts) | [code](./src/day01/index.ts) | ✅     |
-| 2   |Nobody wants to do extra hours at work | [rules](https://adventjs.dev/challenges/2022/2)  | [tests](./src/day02/index.test.ts) | [code](./src/day02/index.ts) |        |
-| 3   |                                     | [rules](https://adventjs.dev/challenges/2022/3)  | [tests](./src/day03/index.test.ts) | [code](./src/day03/index.ts) |        |
+| 2   |Nobody wants to do extra hours at work | [rules](https://adventjs.dev/challenges/2022/2)  | [tests](./src/day02/index.test.ts) | [code](./src/day02/index.ts) |  ✅    |
+| 3   |How many packs of gifts can Santa carry?| [rules](https://adventjs.dev/challenges/2022/3)  | [tests](./src/day03/index.test.ts) | [code](./src/day03/index.ts) |  ✅    |
 | 4   |                                     | [rules](https://adventjs.dev/challenges/2022/4)  | [tests](./src/day04/index.test.ts) | [code](./src/day04/index.ts) |        |
 | 5   |                                     | [rules](https://adventjs.dev/challenges/2022/5)  | [tests](./src/day05/index.test.ts) | [code](./src/day05/index.ts) |        |
 | 6   |                                     | [rules](https://adventjs.dev/challenges/2022/6)  | [tests](./src/day06/index.test.ts) | [code](./src/day06/index.ts) |        |
