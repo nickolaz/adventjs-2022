@@ -1,4 +1,4 @@
-import { distributeGifts } from "./index";
+import distributeGifts from "./index";
 
 describe("day03 challenge", () => {
   test("return type", () => {

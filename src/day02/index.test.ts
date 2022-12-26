@@ -1,4 +1,4 @@
-import { countHours } from "./index";
+import countHours from "./index";
 
 describe("day02 challenge", () => {
   test("return type", () => {

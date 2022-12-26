@@ -17,4 +17,4 @@ function countHours(year: number, holidays: string[]) {
   return hours;
 }
 
-export { countHours };
+export default countHours;

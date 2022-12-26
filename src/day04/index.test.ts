@@ -1,4 +1,4 @@
-import { fitsInOneBox } from "./index";
+import fitsInOneBox from "./index";
 
 describe("day04 challenge", () => {
   test("return type", () => {

@@ -22,4 +22,4 @@ function distributeGifts(packOfGifts: string[], reindeers: string[]) {
   }
 }
 
-export { distributeGifts };
+export default distributeGifts;

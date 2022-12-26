@@ -25,4 +25,4 @@ function fitsInOneBox(boxes: Array<box>) {
   return fit;
 }
 
-export { fitsInOneBox };
+export default fitsInOneBox;

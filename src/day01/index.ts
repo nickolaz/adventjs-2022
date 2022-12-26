@@ -11,4 +11,4 @@ function wrapping(gifts: string[]) {
   });
 }
 
-export { wrapping };
+export default wrapping;

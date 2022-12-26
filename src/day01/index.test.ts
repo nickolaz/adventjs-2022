@@ -1,4 +1,4 @@
-import { wrapping } from "./index";
+import wrapping from "./index";
 
 describe("day01 challenge", () => {
   test("expectect array", () => {
