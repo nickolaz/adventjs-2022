@@ -22,7 +22,7 @@ npm run test
 | 2   |Nobody wants to do extra hours at work | [rules](https://adventjs.dev/challenges/2022/2)  | [tests](./src/day02/index.test.ts) | [code](./src/day02/index.ts) |  ✅    |
 | 3   |How many packs of gifts can Santa carry?| [rules](https://adventjs.dev/challenges/2022/3)  | [tests](./src/day03/index.test.ts) | [code](./src/day03/index.ts) |  ✅    |
 | 4   | Box inside a box and another...   | [rules](https://adventjs.dev/challenges/2022/4)  | [tests](./src/day04/index.test.ts) | [code](./src/day04/index.ts) |  ✅    |
-| 5   | Optimizing Santa's trips              | [rules](https://adventjs.dev/challenges/2022/5)  | [tests](./src/day05/index.test.ts) | [code](./src/day05/index.ts) |  ✅    |
+| 5   | Optimizing Santa's trips              | [rules](https://adventjs.dev/challenges/2022/5)  | [tests](./src/day05/index.test.ts) | [code](./src/day05/index.ts) |       |
 | 6   |                                     | [rules](https://adventjs.dev/challenges/2022/6)  | [tests](./src/day06/index.test.ts) | [code](./src/day06/index.ts) |        |
 | 7   |                                     | [rules](https://adventjs.dev/challenges/2022/7)  | [tests](./src/day07/index.test.ts) | [code](./src/day07/index.ts) |        |
 | 8   |                                     | [rules](https://adventjs.dev/challenges/2022/8)  | [tests](./src/day08/index.test.ts) | [code](./src/day08/index.ts) |        |
